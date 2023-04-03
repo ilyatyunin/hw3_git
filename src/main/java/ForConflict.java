@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class FonConflict {
+public class ForConflict {
+    public static String forPrint() {
+        System.out.println("Hello, world!");
+    }
 }
